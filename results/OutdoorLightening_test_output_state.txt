@@ -1,0 +1,56 @@
+00:00:00:000
+State for model input_reader_motion is next time: 00:00:00:000
+State for model input_reader_light is next time: 00:00:00:000
+State for model OutdoorLightening1 is Current state: 0
+00:00:00:000
+State for model input_reader_motion is next time: 00:00:01:000
+State for model input_reader_light is next time: 00:00:01:000
+State for model OutdoorLightening1 is Current state: 0
+00:00:01:000
+State for model input_reader_motion is next time: 00:00:19:000
+State for model input_reader_light is next time: 00:00:19:000
+State for model OutdoorLightening1 is Current state: 0
+00:00:20:000
+State for model input_reader_motion is next time: 00:00:10:000
+State for model input_reader_light is next time: 00:00:10:000
+State for model OutdoorLightening1 is Current state: 0
+00:00:30:000
+State for model input_reader_motion is next time: 00:00:10:000
+State for model input_reader_light is next time: 00:00:10:000
+State for model OutdoorLightening1 is Current state: 0
+00:00:40:000
+State for model input_reader_motion is next time: 00:00:10:000
+State for model input_reader_light is next time: 00:00:10:000
+State for model OutdoorLightening1 is Current state: 0
+00:00:50:000
+State for model input_reader_motion is next time: 00:00:30:000
+State for model input_reader_light is next time: 00:00:30:000
+State for model OutdoorLightening1 is Current state: 0
+00:01:20:000
+State for model input_reader_motion is next time: 00:00:10:000
+State for model input_reader_light is next time: 00:00:10:000
+State for model OutdoorLightening1 is Current state: 0
+00:01:30:000
+State for model input_reader_motion is next time: 00:00:30:000
+State for model input_reader_light is next time: 00:00:30:000
+State for model OutdoorLightening1 is Current state: 0
+00:02:00:000
+State for model input_reader_motion is next time: 00:00:20:000
+State for model input_reader_light is next time: 00:00:20:000
+State for model OutdoorLightening1 is Current state: 0
+00:02:20:000
+State for model input_reader_motion is next time: 00:00:10:000
+State for model input_reader_light is next time: 00:00:10:000
+State for model OutdoorLightening1 is Current state: 0
+00:02:30:000
+State for model input_reader_motion is next time: 00:00:10:000
+State for model input_reader_light is next time: 00:00:10:000
+State for model OutdoorLightening1 is Current state: 0
+00:02:40:000
+State for model input_reader_motion is next time: 00:00:10:000
+State for model input_reader_light is next time: 00:00:10:000
+State for model OutdoorLightening1 is Current state: 0
+00:02:50:000
+State for model input_reader_motion is next time: inf
+State for model input_reader_light is next time: inf
+State for model OutdoorLightening1 is Current state: 0
